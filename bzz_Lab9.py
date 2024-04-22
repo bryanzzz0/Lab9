@@ -40,7 +40,7 @@ def decode(password):
         decoded_password += decoded_digit
     return decoded_password
 
-def
+def de
 
 if __name__ == "__main__":
     main()
